@@ -1,0 +1,1 @@
+/lustre/user/houm/projects/AnnoLnc/scripts/exp/featureCounts/run_fc_count_reads.sh

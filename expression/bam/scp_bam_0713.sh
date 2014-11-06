@@ -1,0 +1,1 @@
+/lustre/user/houm/projects/AnnoLnc/scripts/exp/scp_bam_0713.sh

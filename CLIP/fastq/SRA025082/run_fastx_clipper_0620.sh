@@ -1,0 +1,1 @@
+/lustre/user/houm/projects/AnnoLnc/scripts/CLIP/run_fastx_clipper_0620.sh

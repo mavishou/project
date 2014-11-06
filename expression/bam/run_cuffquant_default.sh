@@ -1,0 +1,1 @@
+/lustre/user/houm/projects/AnnoLnc/scripts/exp/cuff/run_cuffquant_default.sh

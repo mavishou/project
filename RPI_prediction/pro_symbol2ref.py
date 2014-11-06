@@ -1,0 +1,1 @@
+/lustre/user/houm/projects/AnnoLnc/scripts/seq/pro_symbol2ref.py

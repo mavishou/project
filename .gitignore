@@ -1,0 +1,13 @@
+*
+!*/
+!.gitignore
+!*.py
+!*.sh
+!*.pl
+!*.r
+!*.R
+!*.c
+!*.cpp
+!*.java
+
+

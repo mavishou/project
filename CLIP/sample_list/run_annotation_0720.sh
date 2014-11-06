@@ -1,0 +1,1 @@
+/lustre/user/houm/projects/AnnoLnc/scripts/CLIP/run_annotation_0720.sh

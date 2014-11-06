@@ -1,0 +1,1 @@
+/lustre/user/houm/projects/AnnoLnc/scripts/CLIP/bwa/run_bwa_0720.sh
